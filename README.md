@@ -13,6 +13,7 @@ My notes and solutions for leetcode
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/058_lengthOfLastWord.java)|Easy|
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/059_generateMatrix.java)|Medium|
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/080_removeDuplicates2.java)|Medium|
+|083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/083_deleteDuplicates.java)|Easy|Linked List
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/125_isPalindrome.java)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
