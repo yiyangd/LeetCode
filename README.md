@@ -20,5 +20,4 @@ My notes and solutions for leetcode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/344_reverseString.java)|Easy|String
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1108_defangIPaddr.java)|Easy|String
-|1836|[Remove Duplicates From an Unsorted Linked List
-](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1836_deleteDuplicatesUnsorteds.java)|Medium|Linked List
+|1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1836_deleteDuplicatesUnsorteds.java)|Medium|Linked List
