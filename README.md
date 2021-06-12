@@ -19,6 +19,7 @@ My notes and solutions for leetcode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/203_removeElements.java)|Easy|Linked List
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/344_reverseString.java)|Easy|String
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1108_defangIPaddr.java)|Easy|String
 |1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
