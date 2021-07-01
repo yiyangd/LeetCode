@@ -18,6 +18,7 @@ My notes and solutions for leetcode
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/092_reverseBetween.java)|Medium|Linked List
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/125_isPalindrome.java)|Easy|String
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/144_preorderTraversal.java)|Easy|Tree & Stack & DFS
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/203_removeElements.java)|Easy|Linked List
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
