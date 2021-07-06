@@ -7,6 +7,7 @@ My notes and solutions for leetcode
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/009_isPalindromeNum.java)|Easy|String
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/019_removeNthFromEnd.java)|Medium|Linked List
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/026_removeDuplicates.java)|Easy|Array
+|037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/037_solveSudoku.java)|Hard|Backtracking & Matrix
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/048_rotateImage.java)|Medium|Array(2D)
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/054_spiralOrder.java)|Medium|Array(2D)
 |055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/055_canJump.java)|Medium| DP & Greedy
