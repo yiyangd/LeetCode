@@ -17,7 +17,7 @@ My notes and solutions for leetcode
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/083_deleteDuplicates.java)|Easy|Linked List
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/092_reverseBetween.java)|Medium|Linked List
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/094_inorderTraversal.java)|Easy|Tree & Stack & DFS
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/102_levelOrder.java)|Easy|Tree & Stack & BFS
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/102_levelOrder.java)|Medium|Tree & Stack & BFS
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/125_isPalindrome.java)|Easy|String
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/144_preorderTraversal.java)|Easy|Tree & Stack & DFS
@@ -27,6 +27,7 @@ My notes and solutions for leetcode
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/234_isPalindrome.java)|Easy|Linked List
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/344_reverseString.java)|Easy|String
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-nary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/429_levelOrder.java)|Medium|Tree & Stack & BFS
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/590_postorder.java)|Easy|Tree & Stack & DFS
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1108_defangIPaddr.java)|Easy|String
