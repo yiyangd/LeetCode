@@ -9,6 +9,7 @@ My notes and solutions for leetcode
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/019_removeNthFromEnd.java)|Medium|Linked List
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/026_removeDuplicates.java)|Easy|Array
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/037_solveSudoku.java)|Hard|Backtracking & Matrix
+|039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/039_combinationSum.java)|Medium|Backtracking & Array
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/046_permute.java)|Medium|Backtracking & Array
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/047_permuteUnique.java)|Medium|Backtracking & Array
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/048_rotateImage.java)|Medium|Array(2D)
