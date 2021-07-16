@@ -20,9 +20,11 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/058_lengthOfLastWord.java)|Easy|String
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/059_generateMatrix.java)|Medium|Array(2D)
 |077|[Combinations](https://leetcode.com/problems/combinations/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/077_combine.java)|Medium|Backtracking & Array
+|078|[Subsets](https://leetcode.com/problems/subsets/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/078_subsets.java)|Medium|Backtracking & Array
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/080_removeDuplicates2.java)|Medium|Array
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/082_deleteDuplicates.java)|Medium|Linked List
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/083_deleteDuplicates.java)|Easy|Linked List
+|090|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/090_subsetsWithDup.java)|Medium|Backtracking & Array
 |092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/092_reverseBetween.java)|Medium|Linked List
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/094_inorderTraversal.java)|Easy|Tree & Stack & DFS
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/102_levelOrder.java)|Medium|Tree & Stack & BFS
