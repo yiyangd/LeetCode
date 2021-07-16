@@ -1,5 +1,5 @@
 # LeetCode
-My notes and solutions for leetcode
+My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |#|Title|Solution|Difficulty|Topic
 |-|-----|--------|----------|-----|
 |001|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/001_twoSum.py)|Easy|Hash Table
@@ -14,6 +14,7 @@ My notes and solutions for leetcode
 |046|[Permutations](https://leetcode.com/problems/permutations/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/046_permute.java)|Medium|Backtracking & Array
 |047|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/047_permuteUnique.java)|Medium|Backtracking & Array
 |048|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/048_rotateImage.java)|Medium|Array(2D)
+|051|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/051_solveNQueens.java)|Hard|Backtracking & Array
 |054|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/054_spiralOrder.java)|Medium|Array(2D)
 |055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/055_canJump.java)|Medium| DP & Greedy
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/058_lengthOfLastWord.java)|Easy|String
