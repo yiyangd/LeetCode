@@ -1,20 +1,23 @@
 //Solution - Backtracking
-
 public List<List<Integer>> permute(int[] nums) {
     List<List<Integer>> pmtns = new ArrayList<List<Integer>>();
     List<Integer> pmtn = new ArrayList<Integer>();
-    for (int num:nums) pmtn.add(num); //pmt=[1,2,3]
-    backtrack(nums.length,pmtn,pmtns,0);
+    backtrack(nums,0,pmtn,pmtns);
     return pmtns;
 }
-public void backtrack(int n, List<Integer> pmtn, List<List<Integer>> pmtns, int first){
-    if (first == n)
+
+public void backtrack(int[] nums,int idx, List<Integer> pmtn, List<List<Integer>> pmtns){
+    if (idx == nums.length){
         pmtns.add(new ArrayList<Integer>(pmtn));
-    
-    for(int i  = first; i < n; i++){
-        Collections.swap(pmtn,first,i);
-        backtrack(n,pmtn,pmtns,first+1);
-        Collections.swap(pmtn,first,i);
+        return;
+    } 
+
+    for (int i  = 0; i < nums.length; i++){
+        if(pmtn.contains(nums[i])) 
+            continue;
+        pmtn.add(nums[i]);
+        backtrack(nums,idx+1,pmtn,pmtns);
+        pmtn.remove(pmtn.size()-1);
     }
 }
 
