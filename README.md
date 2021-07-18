@@ -29,6 +29,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/094_inorderTraversal.java)|Easy|Tree & Stack & DFS
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/102_levelOrder.java)|Medium|Tree & Stack & BFS
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/125_isPalindrome.java)|Easy|String
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/131_partition.java)|Medium|Backtracking & String
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/144_preorderTraversal.java)|Easy|Tree & Stack & DFS
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/145_postorderTraversal.java)|Easy|Tree & Stack & DFS
