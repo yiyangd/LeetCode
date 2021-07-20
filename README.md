@@ -7,6 +7,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/009_isPalindromeNum.java)|Easy|String
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/017_letterCombinations.java)|Medium|Backtracking & Hashtable
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/019_removeNthFromEnd.java)|Medium|Linked List
+|022|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/022_generateParenthesis.java)|Medium|Backtracking & String
 |026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/026_removeDuplicates.java)|Easy|Array
 |037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/037_solveSudoku.java)|Hard|Backtracking & Matrix
 |039|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/039_combinationSum.java)|Medium|Backtracking & Array
