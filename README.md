@@ -44,11 +44,11 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-nary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/429_levelOrder.java)|Medium|Tree & BFS
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/590_postorder.java)|Easy|Tree & Stack & DFS
-|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1108_defangIPaddr.java)|Easy|String
-|1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
+|1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/_1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1108_defangIPaddr.java)|Easy|String
+|1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
 
 《Coding Interview》
 
 |#|Title|Solution|Difficulty|Topic
 |-|-----|--------|----------|-----|
-|CI32|[Robot Move](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/comments/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/CI32_movingCount.java)|Medium|DFS & Matrix
+|CI32|[Robot Move](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/comments/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_CI32_movingCount.java)|Medium|DFS & Matrix
