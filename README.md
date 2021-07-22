@@ -36,6 +36,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/144_preorderTraversal.java)|Easy|Tree & Stack & DFS
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/145_postorderTraversal.java)|Easy|Tree & Stack & DFS
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/200_numIslands.java)|Medium|DFS & BFS & Matrix
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/203_removeElements.java)|Easy|Linked List
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/216_combinationSum3.java)|Medium|Backtracking & Array
@@ -44,7 +45,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-nary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/429_levelOrder.java)|Medium|Tree & BFS
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/590_postorder.java)|Easy|Tree & Stack & DFS
-|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/733_floodFill.java)|Medium|DFS & BFS & Matrix
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/733_floodFill.java)|Easy|DFS & BFS & Matrix
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/752_openLock.java)|Medium|BFS & HashTable
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/_1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1108_defangIPaddr.java)|Easy|String
 |1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
