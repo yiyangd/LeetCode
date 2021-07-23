@@ -22,6 +22,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/059_generateMatrix.java)|Medium|Array(2D)
 |077|[Combinations](https://leetcode.com/problems/combinations/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/077_combine.java)|Medium|Backtracking & Array
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/078_subsets.java)|Medium|Backtracking & Array
+|079|[Word Search](https://leetcode.com/problems/word-search/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/079_wordSearch.java)|Medium|Backtracking & DFS & Matrix
 |080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/080_removeDuplicates2.java)|Medium|Array
 |082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/082_deleteDuplicates.java)|Medium|Linked List
 |083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/083_deleteDuplicates.java)|Easy|Linked List
