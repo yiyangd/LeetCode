@@ -39,6 +39,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/200_numIslands.java)|Medium|DFS & BFS & Matrix
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/203_removeElements.java)|Easy|Linked List
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/207_canFinish.java)|Medium|DFS & BFS & Graph &Topological Sort
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/216_combinationSum3.java)|Medium|Backtracking & Array
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/234_isPalindrome.java)|Easy|Linked List
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/344_reverseString.java)|Easy|String
