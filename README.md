@@ -51,6 +51,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/733_floodFill.java)|Easy|DFS & BFS & Matrix
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/752_openLock.java)|Medium|BFS & HashTable
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/_1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1108_defangIPaddr.java)|Easy|String
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1137_tribonacci.java)|Easy|DP
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1306_canReach.java)|Medium|DFS & BFS & Array
 |1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
 
