@@ -20,6 +20,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |055|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/055_canJump.java)|Medium| DP & Greedy
 |058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/058_lengthOfLastWord.java)|Easy|String
 |059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/059_generateMatrix.java)|Medium|Array(2D)
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/070_climbStairs.java)|Easy|DP
 |077|[Combinations](https://leetcode.com/problems/combinations/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/077_combine.java)|Medium|Backtracking & Array
 |078|[Subsets](https://leetcode.com/problems/subsets/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/078_subsets.java)|Medium|Backtracking & Array
 |079|[Word Search](https://leetcode.com/problems/word-search/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/079_wordSearch.java)|Medium|Backtracking & DFS & Matrix
