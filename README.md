@@ -50,6 +50,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/590_postorder.java)|Easy|Tree & Stack & DFS
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/733_floodFill.java)|Easy|DFS & BFS & Matrix
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/746_minCostClimbingStairs.java)|Easy|DP
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/752_openLock.java)|Medium|BFS & HashTable
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[Python](https://github.com/yiyangd/LeetCode/blob/main/Python/_1108Defanging_IP_Address.py) \| [Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1108_defangIPaddr.java)|Easy|String
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1137_tribonacci.java)|Easy|DP
