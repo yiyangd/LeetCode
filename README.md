@@ -38,6 +38,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/144_preorderTraversal.java)|Easy|Tree & Stack & DFS
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/145_postorderTraversal.java)|Easy|Tree & Stack & DFS
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/160_getIntersectionNode.java)|Easy|Linked List
+|198|[House Robber](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/200_numIslands.java)|Medium|DFS & BFS & Matrix
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/200_numIslands.java)|Medium|DFS & BFS & Matrix
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/203_removeElements.java)|Easy|Linked List
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/206_reverseList.java)|Easy|Linked List
