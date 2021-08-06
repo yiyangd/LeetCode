@@ -49,6 +49,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/337_rob.java)|Medium|DP & Tree & DFS
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/344_reverseString.java)|Easy|String
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/377_combinationSum4.java)|Easy|String
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/416_canPartition.java)|Medium|DP
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-nary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/429_levelOrder.java)|Medium|Tree & BFS
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/509_fib.java)|Easy|DP
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
