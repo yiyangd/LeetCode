@@ -71,7 +71,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/180_consecutiveNums.sql)|Medium||
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/181_employeeMore.sql)|Easy|JOIN ON|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/182_duplicateEmails.sql)|Easy|GROUP BY & HAVING|
-
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/183_neverOrders.sql)|Easy|NOT IN|
 
 《Coding Interview》
 
