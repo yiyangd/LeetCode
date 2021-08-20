@@ -61,6 +61,14 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1137_tribonacci.java)|Easy|DP
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1306_canReach.java)|Medium|DFS & BFS & Array
 |1836|[Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/_1836_deleteDuplicatesUnsorted.java)|Medium|Linked List
+## Database
+|#|Title|Solution|Difficulty|Approach
+|-|-----|--------|----------|-----|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/175_combineTables.sql)|Easy|Outter Join
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/176_secondHighest.sql)|Easy|LIMIT OFFSET
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/177_nthHighest.sql)|Medium|LIMIT OFFSET
+
+
 
 《Coding Interview》
 
