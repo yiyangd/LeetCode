@@ -68,6 +68,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/176_secondHighest.sql)|Easy|LIMIT OFFSET
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/177_nthHighest.sql)|Medium|LIMIT OFFSET
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/178_rankScores.sql)|Medium|dense_rank()|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](https://github.com/yiyangd/LeetCode/blob/main/SQL/180_consecutiveNums.sql)|Medium||
 
 《Coding Interview》
 
