@@ -51,6 +51,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/377_combinationSum4.java)|Easy|String
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/416_canPartition.java)|Medium|DP
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-nary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/429_levelOrder.java)|Medium|Tree & BFS
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/494_findTargetSumWays.java)|Medium|DP
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/509_fib.java)|Easy|DP
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/589_preorder.java)|Easy|Tree & Stack & DFS
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/590_postorder.java)|Easy|Tree & Stack & DFS
