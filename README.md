@@ -32,6 +32,7 @@ My notes and solutions for LeetCode and 《Cracking the Coding Interview》
 |093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/093_restoreIpAddresses.java)|Medium|Backtracking & String
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/094_inorderTraversal.java)|Easy|Tree & Stack & DFS
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/102_levelOrder.java)|Medium|Tree & Stack & BFS
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Python/104_maxDepth.py)|Easy|Tree & DFS
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/125_isPalindrome.java)|Easy|String
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/131_partition.java)|Medium|Backtracking & String
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](https://github.com/yiyangd/LeetCode/blob/main/Java/141_hasCycle.java)|Easy|Linked List
